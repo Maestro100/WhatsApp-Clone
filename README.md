@@ -1,2 +1,2 @@
 # WhatsApp-Clone
-Building WhatsApp using React and firebase
+Building a copy WhatsApp chat service app using React and firebase
